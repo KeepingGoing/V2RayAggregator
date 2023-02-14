@@ -61,14 +61,14 @@ The speed measurement function is implemented in the `GitHub Actions` environmen
 Nodes filtered using speedtest measurement will be stored in following files:  
 
 * Group 1 (Contains free public nodes)
-- [Base64](https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity)
-- [Mixed](https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.txt)
-- [Clash](https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.yml)
+- [Base64](https://raw.githubusercontent.com/KeepingGoing/ShadowsocksAggregator/master/Eternity)
+- [Mixed](https://raw.githubusercontent.com/KeepingGoing/ShadowsocksAggregator/master/Eternity.txt)
+- [Clash](https://raw.githubusercontent.com/KeepingGoing/ShadowsocksAggregator/master/Eternity.yml)
 
 * Group 2 (Contains only free airports)
-- [Base64](https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/EternityAir)
-- [Mixed](https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/EternityAir.txt)
-- [Clash](https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/EternityAir.yml)
+- [Base64](https://raw.githubusercontent.com/KeepingGoing/ShadowsocksAggregator/master/EternityAir)
+- [Mixed](https://raw.githubusercontent.com/KeepingGoing/ShadowsocksAggregator/master/EternityAir.txt)
+- [Clash](https://raw.githubusercontent.com/KeepingGoing/ShadowsocksAggregator/master/EternityAir.yml)
 
 ### For Local Testing (all nodes)
 > Only for local testing because the number of nodes is too high and your client will crash if you import them  
